@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+body {
+	 background-color: #F2F2F2;
+}
+
+#divFilter {
+	padding-top: 20px;
+	padding-left: 20px;
+	height:50px;
+}
+
+#divOriginalImage {
+	padding-left: 20px;
+	width:570px;
+	float:left;
+}
+
+#divFilteredImage {
+	width:550px;
+	float:left;
+}
+
+.error {
+	color: red;
+}
