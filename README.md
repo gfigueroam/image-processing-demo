@@ -22,25 +22,25 @@ The project is a dynamic web java project that uses maven for building the proje
 The context name of the project is ImageProcessing, and it can be accessed, once deployed, by http://localhost:8080/ImageProcessing/. Change to the correct port if needed.
 
 Some aspects of the java language covered in this project are:
-•	Data Structures (List, Map, enum)
-•	Logging
-•	Error Handling
-•	Threads and Executor
-•	WebListeners and Servlets
-•	ImageIO
+- Data Structures (List, Map, enum)
+- Logging
+- Error Handling
+- Threads and Executor
+- WebListeners and Servlets
+- ImageIO
 
 Some concepts of OO Programing and design patterns used are the following:
-•	Implementation and Extension
-•	Aggregation
-•	Encapsulation
-•	Program for interfaces than for implementation
-•	Aggregation over inheritance, when it is possible.
+- Implementation and Extension
+- Aggregation
+- Encapsulation
+- Program for interfaces than for implementation
+- Aggregation over inheritance, when it is possible.
 
 Some design patterns and good practices applied are:
-•	Singleton design pattern
-•	Code comments and javadocs
-•	Use of annotation instead of xml blocks in the deploy descriptor.
-•	Use int instead of String on maps.
+- Singleton design pattern
+- Code comments and javadocs
+- Use of annotation instead of xml blocks in the deploy descriptor.
+- Use int instead of String on maps.
 
 ### 2.3 Class Diagram
 <img width="482" height="235" alt="image" src="https://github.com/user-attachments/assets/6633a58d-c8c5-484a-a84a-67a494211026" />
