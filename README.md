@@ -1,6 +1,6 @@
 # Image Processing Project
 
-This project implements the convolution function to apply a transformation to an image using multiple kernels. It was part of a challenge for a job interview in 2016.
+This project implements the convolution function to apply a transformation to an image using multiple kernels. It was part of a challenge for a job interview in 2016 and runs on Java 7. 
 
 ## 1. Introdution
 ### 1.1 Purpose
